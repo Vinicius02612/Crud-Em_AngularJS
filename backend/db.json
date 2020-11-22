@@ -1,0 +1,19 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "caneta bic preta",
+      "price": 2.9
+    },
+    {
+      "name": "geladeira",
+      "price": "5000",
+      "id": 2
+    },
+    {
+      "name": "smart  tv sansung",
+      "price": "5000",
+      "id": 3
+    }
+  ]
+}
