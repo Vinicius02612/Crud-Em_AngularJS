@@ -2,6 +2,32 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
+## About Angula
+
+Angula is a JavaScript frameWork developed by google to guide Web SPA applications (Single Page Aplication) based on components.
+
+## Command line interface.
+
+- installing angula with cli
+
+     npm i -g @ angular / cli
+
+- creating project
+
+     ng new my-app
+
+## creating a Crud using FrameWork Angula.
+
+As the focus of the Project is frontend, I used the json-server as a database to create the application database.
+
+     - installing the json-server.
+
+         npm install json-server
+
+     - for the radar the server just needs to enter the following command.
+
+         npm start
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
