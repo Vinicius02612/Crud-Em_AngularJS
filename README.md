@@ -1,31 +1,27 @@
-## Crud-Em_AngularJS
-Estuando FrameWork Angular 9
-## Sobre o Angula 
+# Frontend
 
-Angula é uma frameWork JavaScript desenvolvido pelo google para orientação de aplicações Web SPA (Single Page Aplication) baseado em componentes.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
-## Command line interface.
+## Development server
 
--- instalando o angula com cli
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-    npm i -g @angular/cli
+## Code scaffolding
 
--- criando projeto 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-    ng new minha-app
+## Build
 
-## craindo um Crud usando FrameWork Angula.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Como o foco do Projeto é frontend, usei como banco de dados o json-server para criar o banco de dados da aplicação.
+## Running unit tests
 
-    -- instalando o json-server. 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-        npm install json-server
+## Running end-to-end tests
 
-    -- para o radar o servidor basta digitar o seguinte comando.
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-        npm start
+## Further help
 
-
-
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
